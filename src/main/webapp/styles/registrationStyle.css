@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+.space_around_title_text_registration {
+	width: 43%;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: Black;
+}
+
+ .news_text_format_registration {
+ margin-top: 40px;
+	width: 60%;
+	text-align: left;
+	word-break: break-all;
+}
+
+.space_around_view_text_registration {
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+/* for header */
+
+
+
